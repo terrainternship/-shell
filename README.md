@@ -16,3 +16,8 @@
 
 Требования к интеграционной части
 Облачный сервер заказчика
+
+
+Ссылка на файл с общими договоренностями - https://docs.google.com/document/d/1K0fKDCBBkiP_fndLAw7BvkwNZZZ59tQ1c3ZXKrA-hVM/edit?usp=sharing
+
+Ссылка на ТЗ по раскадровке - https://docs.google.com/document/d/11SbjcFItnXCkLv0nqjfmA6D8bHNGYtp1OTRhbvdqrlA/edit?usp=sharing
