@@ -25,3 +25,5 @@
 Ссылка на ТЗ по раскадровке - https://docs.google.com/document/d/11SbjcFItnXCkLv0nqjfmA6D8bHNGYtp1OTRhbvdqrlA/edit?usp=sharing
 
 Ссылка на файл для сложных кадров - https://docs.google.com/document/d/1jFI6jpFIWaJ_9ijQYp9omtOsRHnqddcsHi3uFAV4Jx4/edit?usp=sharing
+
+Ссылка на таблицу с результатами экспериментов - https://docs.google.com/spreadsheets/d/1smQezttoGD6E_3MVqgTn7kcygM4q7bLGq9_JZLJY7fg/edit?usp=sharing
