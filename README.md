@@ -27,3 +27,5 @@
 Ссылка на файл для сложных кадров - https://docs.google.com/document/d/1jFI6jpFIWaJ_9ijQYp9omtOsRHnqddcsHi3uFAV4Jx4/edit?usp=sharing
 
 Ссылка на таблицу с результатами экспериментов - https://docs.google.com/spreadsheets/d/1smQezttoGD6E_3MVqgTn7kcygM4q7bLGq9_JZLJY7fg/edit?usp=sharing
+
+Ссылка на общий диск - https://drive.google.com/drive/folders/18av1XzUDzodOj67E16_m01RrMOtI42U8
